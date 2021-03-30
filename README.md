@@ -1,5 +1,5 @@
-# test
+# SVCaffe to pytorch
 
-## For cuda layer
+## Cuda code build
 
 in qmp folder run python setup.py install
